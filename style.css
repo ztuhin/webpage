@@ -1,0 +1,16 @@
+/* unvisited link */
+a.headerLink:link {
+}
+
+/* visited link */
+a.headerLink:visited {
+}
+
+/* mouse over link */
+a.headerLink:hover {
+	 cursor: pointer;
+}
+
+/* selected link */
+a.headerLink:active {
+}
